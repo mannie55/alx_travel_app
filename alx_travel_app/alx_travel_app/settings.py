@@ -33,13 +33,6 @@ ALLOWED_HOSTS = env('ALLOWED_HOSTS')
 # See https://docs.djangoproject.com/en/5.2/howto/deployment/checklist/
 
 # SECURITY WARNING: keep the secret key used in production secret!
-SECRET_KEY = 'django-insecure-p9)tc8zjlw=bfxree(unrc*a7@fxthkyr*ykhh-49&nvf*fg&b'
-
-# SECURITY WARNING: don't run with debug turned on in production!
-
-
-ALLOWED_HOSTS = ['localhost', '127.0.0.1']
-
 
 # Application definition
 
